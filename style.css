@@ -1,0 +1,15 @@
+.new-rocker-regular {
+    font-family: "New Rocker", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+:root {
+
+    --cor-fundo: #0e0401;
+    --cor-principal: #20140b ;
+    --cor-secundaria: #332421;
+    --cor-destaque: #fdba2b;
+    --cor-texto: #D7F9FF;}
+
+    
